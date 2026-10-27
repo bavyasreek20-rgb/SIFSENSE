@@ -1,0 +1,30 @@
+[
+  {
+    "report_text": "Worker entered a confined space without gas test before maintenance.",
+    "site": "Demo Site A",
+    "activity": "Maintenance",
+    "report_type": "Unsafe Condition",
+    "note": "Synthetic example for testing only."
+  },
+  {
+    "report_text": "Technician reported no fall protection while working at height.",
+    "site": "Demo Site B",
+    "activity": "Work at height",
+    "report_type": "Unsafe Act",
+    "note": "Synthetic example for testing only."
+  },
+  {
+    "report_text": "A suspended load moved close to the marked pedestrian area.",
+    "site": "Demo Site A",
+    "activity": "Lifting",
+    "report_type": "Near Miss",
+    "note": "Synthetic example for testing only."
+  },
+  {
+    "report_text": "Routine housekeeping observation: the work area was clean and orderly.",
+    "site": "Demo Site C",
+    "activity": "Housekeeping",
+    "report_type": "Observation",
+    "note": "Synthetic example for testing only."
+  }
+]

@@ -1,0 +1,9 @@
+WINDOWS QUICK START
+1. Install Python 3.10 or newer.
+2. Open Command Prompt in this backend folder.
+3. Run: python -m venv .venv
+4. Run: .venv\Scripts\activate
+5. Run: pip install -r requirements.txt
+6. Run: uvicorn app.main:app --reload
+7. Open http://127.0.0.1:8000/docs
+8. To test: pytest
